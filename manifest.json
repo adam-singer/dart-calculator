@@ -7,7 +7,7 @@
   },
   "app": {
     "launch": {
-      "web_url": "http://www.corp.google.com/~terry/dart/calculator/calculator.html"
+      "web_url": "http://financeCoding.github.com/dart-calculator/calculator.html"
     }
   }
 }
